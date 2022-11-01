@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350612073813",
+    "project_id": "useful-gearbox-303813",
+    "storage_bucket": "useful-gearbox-303813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350612073813:android:7579ea011b9e1bee2d13dc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350612073813-6ho2dlho56ja7p2u7ic0pqvrqqoe4qk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZO1cMoIK7b6gCTl59CUWDB0kbTu3Alc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350612073813-6ho2dlho56ja7p2u7ic0pqvrqqoe4qk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
